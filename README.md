@@ -46,8 +46,6 @@ Sou um desenvolvedor Full-stack apaixonado por criar soluções completas e efic
  ### 📊 Estatísticas do GitHub
  
  <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusPBC&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de MatheusPBC"/>
-   <br/>
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPBC&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de MatheusPBC"/>
  </p>
  
