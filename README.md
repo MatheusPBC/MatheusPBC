@@ -43,7 +43,9 @@ Sou um desenvolvedor Full-stack apaixonado por criar soluções completas e efic
      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="nosql" width="40" height="40"/>
      </a>
- </p>
+     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+     </a>
  
  ---
  
