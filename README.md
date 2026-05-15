@@ -1,62 +1,69 @@
 <div align="center">
 
-# Olá, eu sou o Matheus P. 👋
-### Desenvolvedor Full-stack 
+# Matheus Pimentel Brackmann Caramuru
+
+**Backend / Cloud / DevOps Developer**  
+AWS serverless · IoT telemetry · event-driven systems · applied AI tooling
+
+[Portfolio](https://website-matheus-brackmann.vercel.app/en) · [LinkedIn](https://www.linkedin.com/in/matheus-pimentel-brackmann-caramuru-1250611b6/) · [GitHub](https://github.com/MatheusPBC)
 
 </div>
 
-
-
-### 👨‍💻 Sobre Mim
- 
-<p align="left">
-Sou um desenvolvedor Full-stack apaixonado por criar soluções completas e eficientes, trabalhando desde o backend até o frontend. Estou sempre em busca de novos desafios e aprendendo sobre as tecnologias mais recentes do mercado.
-</p>
- 
 ---
- 
-### 🚀 Linguagens e Ferramentas
- 
-<p align="left">
-     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-     </a>
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-     </a>
-     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-     </a>
-     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-     </a>
-     <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-     </a>
-     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-     </a>
-     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-     </a>
-     </a>
-     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="nosql" width="40" height="40"/>
-     </a>
-     <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-     </a>
- 
- ---
- 
- ### 📊 Estatísticas do GitHub
- 
- <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPBC&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens de MatheusPBC"/>
- </p>
- 
- ---
- 
- <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=MatheusPBC&label=VISITANTES%20NO%20PERFIL&color=blueviolet&style=flat" alt="Contador de Visitantes"/>
- </p>
+
+## About
+
+I build backend, cloud, and automation systems for production problems: serverless APIs, event-driven integrations, IoT telemetry pipelines, data workflows, and operational tooling.
+
+My strongest stack is **AWS serverless** with **Lambda, AppSync, DynamoDB, GraphQL, Node.js, TypeScript, Python, Docker, Terraform, and Pulumi**. I care about cost-aware architecture, observability, maintainability, and systems that can evolve safely under real operational pressure.
+
+I also work with applied AI for engineering workflows, including **RAG, MCP, LLM automation, agents, codebase research, and debugging support tools**.
+
+---
+
+## Current Focus
+
+- Building cloud-native backend systems with AWS serverless.
+- Designing IoT telemetry and home automation flows for production environments.
+- Improving event-driven architectures, observability, rollback safety, and cost predictability.
+- Exploring RAG, MCP, and LLM agents for engineering productivity.
+
+---
+
+## Core Stack
+
+**Backend & APIs**  
+Node.js · TypeScript · Python · REST APIs · GraphQL · JWT · SOAP integrations
+
+**Cloud & DevOps**  
+AWS Lambda · AWS AppSync · DynamoDB · DynamoDB Streams · Docker · Terraform · Pulumi · CI/CD · Linux
+
+**Architecture & Data**  
+Serverless architecture · Event-driven systems · IoT telemetry · High-volume data pipelines · Observability · Cost-aware cloud design · MongoDB · MySQL · SQL Server
+
+**AI & Automation**  
+RAG · MCP · LLMs · AI agents · Node-RED · engineering automation
+
+---
+
+## Selected Projects
+
+| Project | Description | Stack |
+| :-- | :-- | :-- |
+| [website-matheus-brackmann](https://github.com/MatheusPBC/website-matheus-brackmann) | Personal portfolio and technical resume built with Next.js. | Next.js, TypeScript, Tailwind CSS |
+| [RLM_RAG-hybrid](https://github.com/MatheusPBC/RLM_RAG-hybrid) | RAG and agent experiments for codebase research and engineering workflows. | Python, RAG, LLMs |
+| [MotoTrilha](https://github.com/MatheusPBC/MotoTrilha) | App for trail planning and off-road group organization. | Python |
+| [HIdeout-Warrior-CLI](https://github.com/MatheusPBC/HIdeout-Warrior-CLI) | CLI tooling for market analysis, expected value calculations, and data-driven decisions. | Python, CLI |
+| [API-ANAS-Hidro](https://github.com/MatheusPBC/API-ANAS-Hidro) | TypeScript API for hydrology and telemetry-style data workflows. | TypeScript, Node.js, MongoDB, Docker |
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPBC&layout=compact&langs_count=7&theme=dracula" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MatheusPBC&label=PROFILE%20VIEWS&color=0e7490&style=flat" alt="Profile views" />
+</p>
