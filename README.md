@@ -58,12 +58,8 @@ RAG · MCP · LLMs · AI agents · Node-RED · engineering automation
 
 ---
 
-## GitHub Stats
+## Profile Links
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusPBC&layout=compact&langs_count=7&theme=dracula" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MatheusPBC&label=PROFILE%20VIEWS&color=0e7490&style=flat" alt="Profile views" />
-</p>
+- Portfolio: [website-matheus-brackmann.vercel.app/en](https://website-matheus-brackmann.vercel.app/en)
+- LinkedIn: [matheus-pimentel-brackmann-caramuru](https://www.linkedin.com/in/matheus-pimentel-brackmann-caramuru-1250611b6/)
+- GitHub: [MatheusPBC](https://github.com/MatheusPBC)
